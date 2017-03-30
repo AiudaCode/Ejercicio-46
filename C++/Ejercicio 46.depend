@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1490835815 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 46\main.cpp
+	<iostream>
+	"Nino.h"
+	"ProgramaDepartamental.h"
+
+1490835355 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 46\include\nino.h
+	<iostream>
+
+1490835840 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 46\include\programadepartamental.h
+	<iostream>
+	"Nino.h"
+
+1490835608 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 46\src\nino.cpp
+	"Nino.h"
+
+1490835863 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 46\src\programadepartamental.cpp
+	"ProgramaDepartamental.h"
+
